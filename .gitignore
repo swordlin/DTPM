@@ -1,0 +1,5 @@
+/.idea/
+*.pyc
+*.jpg
+__pycache__/
+runs/
